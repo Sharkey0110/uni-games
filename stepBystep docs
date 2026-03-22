@@ -1,0 +1,9 @@
+STAGE 1 - SETUP:
+  so we create a vite app with create vite@latest and select typescript and react
+  we create a main.tsx in src and create a root thing that calls App
+  then we create App in source and thats our base page the ball rolls now
+  make a global css file this just gives us some css presets so we can easily give custom yet consistant styles to all our componants via tailwind, on big projects i imagine this will take days to do
+  to use global CSS and tailwind, youll have to install it, its different depending on framework do some homework look up the vite install
+  You also need react-router-dom for good routing, and import them into App
+  Set up your root and auth files, add layouts, add index in root
+  go get shadCN on the project this shit is fire, add the text to tsconfig (look it up)
